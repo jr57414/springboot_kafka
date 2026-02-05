@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springbootkafka.SpringbootkafkaApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-03T06:01:48.884Z" hostname="Rameshs-Mac-mini.local" time="0.38">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.springbootkafka.SpringbootkafkaApplicationTests" time="0.38"/>
+  <system-out><![CDATA[23:01:47.986 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.springbootkafka.SpringbootkafkaApplicationTests]: SpringbootkafkaApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:01:48.038 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.springbootkafka.DemoApplication for test class com.example.springbootkafka.SpringbootkafkaApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.1)
+
+2026-02-02T23:01:48.218-07:00  INFO 92085 --- [    Test worker] c.e.s.SpringbootkafkaApplicationTests    : Starting SpringbootkafkaApplicationTests using Java 17.0.6 with PID 92085 (started by rameshjindam in /Users/rameshjindam/Documents/workspace/springbootkafka)
+2026-02-02T23:01:48.219-07:00  INFO 92085 --- [    Test worker] c.e.s.SpringbootkafkaApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2026-02-02T23:01:48.836-07:00  INFO 92085 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2026-02-02T23:01:48.862-07:00  INFO 92085 --- [    Test worker] c.e.s.SpringbootkafkaApplicationTests    : Started SpringbootkafkaApplicationTests in 0.761 seconds (process running for 1.355)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
